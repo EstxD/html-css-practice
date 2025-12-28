@@ -7,3 +7,6 @@ Simple HTML and CSS practice projects
 
 ## Purpose
 To practice frontend development fundamentals and page styling.
+
+## Link
+https://estxd.github.io/html-css-practice/
